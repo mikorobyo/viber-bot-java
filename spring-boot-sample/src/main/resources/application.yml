@@ -7,9 +7,9 @@ server:
     key-store-password: "password"
 
 application.viber-bot:
-  auth-token: "YOUR_VIBER_AUTH_TOKEN"
-  webhook-url: "https://YOUR_WEBHOOK_URL:8080"
-  name: "EchoBot"
-  avatar: "http://example.com/avatar.jpg"
+  auth-token: "4641a1c4b3b44b85-91486ac11e3b497a-0607d3e5bb6ff981"
+  webhook-url: "https://maxs-viber-bot-java.herokuapp.com:8080"
+  name: "Max's Restaurant"
+  avatar: "https://www.maxschicken.com/img/logo_04.png"
 
 logging.level.com.viber: DEBUG
